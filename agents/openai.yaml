@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pickle Inbox"
+  short_description: "Create Pickle Inbox requests with explicit response types"
+  default_prompt: "Use $pickle-obsidian to create a local Pickle Inbox request, define the expected response type, and consume the response."
